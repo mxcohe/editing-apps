@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.whitmanarchive.org/downloads/wwa.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.whitmanarchive.org/namespace" xml:id="duk.00109">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main" rend="bracketed">America has been called</title>
+                <title level="m" type="sub">a machine readable transcription</title>
+                <author xml:id="ww">Walt Whitman</author>
+                <editor>Kenneth M. Price</editor>
+                <editor>Ed Folsom</editor>
+                <respStmt>
+                    <resp>Transcription and encoding</resp>
+                    <name>The Walt Whitman Archive Staff</name>
+                </respStmt>
+                <sponsor>University of Texas at Austin</sponsor>
+                <sponsor>University of Nebraska-Lincoln</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2011</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <idno>duk.00109</idno>
+                <distributor>The Walt Whitman Archive</distributor>
+                <address>
+                    <addrLine>Center for Digital Research in the Humanities</addrLine>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>kprice@unlnotes.unl.edu</addrLine>
+                    <addrLine>Ed-Folsom@uiowa.edu</addrLine>
+                    <addrLine>bbarney2@unlnotes.unl.edu</addrLine>
+                </address>
+                <availability>
+                    <p>This document is governed by a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license (CC BY-NC-SA 3.0). You are free to share — to copy, distribute and transmit the work; and to remix — to adapt the work, under the following conditions:
+                        1) Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
+                        2) Noncommercial — You may not use this work for commercial purposes.
+                        3) Share Alike — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+                        With the understanding that:
+                        1) Waiver — Any of the above conditions can be waived if you get permission from the copyright holder.
+                        2) Public Domain — Where the work or any of its elements is in the public domain under applicable law, that status is in no way affected by the license.
+                        3) Other Rights — In no way are any of the following rights affected by the license: Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations; the author's moral rights; or rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+                        For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page: http://creativecommons.org/licenses/by-nc-sa/3.0/. For the full legal text of this license, see http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode.</p>
+                    <p>Permission to reproduce the graphic images in this
+                        archive has been granted by the owners of the originals for this publication
+                        only.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note type="project" target="#dat1">Edward Grier speculates that "the writing suggests a date in the 1850s." (Grier, Edward F., Ed.<hi rend="italic">The Collected Writings of Walt Whitman. Notebooks and Unpublished Manuscripts</hi>. 1593).</note>
+                <note type="project">The following are responsible for particular readings or for changes to this file, as noted: 
+                    <persName xml:id="lmg">Lauren Grewe</persName><persName xml:id="nhg">Nicole Gray</persName><persName xml:id="tra">Ty Alyea</persName>              
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Walt Whitman</author>
+                    <title>Notes on Literature</title>
+                    <idno type="callno">II-5 102</idno>
+                    <date notBefore="1840-05-31" notAfter="1892-03-26"></date>  
+                    <orgName>Trent Collection of Walt Whitman Manuscripts, Duke University Rare Book, Manuscript, and Special Collections Library</orgName>
+                    <note type="project">Transcribed from our digital image of original.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="h1" scribeRef="#ww" medium="pencil"/>
+                <handNote xml:id="h2" scribeRef="#ww" medium="black-ink"/>
+            </handNotes>
+        </profileDesc>
+        <revisionDesc>
+            <change who="#lmg" when="2011-09-02">Transcribed and encoded.</change>
+            <change who="#nhg" when="2011-10-10">Checked, revised.</change>
+            <change who="#tra" when="2013-10-08">Checked bibliographical information.</change>
+            <change who="#mc" when="2014-08-23">Proofed</change>
+        </revisionDesc>
+    </teiHeader>
+    <text type="marginalia"><!--Checked against Grier, p. 1593, 1755.-->
+        <body>
+            <pb xml:id="leaf001r" facs="duk.00109.001.jpg" type="recto"/><div1 type="section">
+                <!--NHG: there is a squiggly mark at the top of the page in #h2.-->
+            <p><handShift new="#h1"/>America has been called <del rend="overstrike">a</del> proud and
+                arrogant.&#8212;It may be, but she does not show i<gap reason="cut away" quantity="1" unit="char"/>
+                in her <del rend="overstrike">criticisms or</del> <del rend="overstrike"><add rend="insertion" place="supralinear">drama or</add></del> ^ literature.&#8212;^ <add rend="insertion" place="supralinear">It is indirect, and therefore more effective</add> Day by day and hou<gap reason="cut away" quantity="1" unit="char"/>
+                by hour, in <del rend="overstrike"><gap reason="illegible" quantity="1" unit="word"/></del> tragedy and comedy, in picture and
+                print, in every <subst><del rend="overwrite" seq="1">e</del><add rend="overwrite" place="over" seq="2">i</add></subst>mportation of art and <subst><del rend="overstrike" seq="1">literature,</del><add rend="insertion" place="supralinear" seq="2">letters,</add></subst>
+                <del rend="overstrike">she</del> she submits to one <subst><del rend="overstrike" seq="1">ceaseless</del><add rend="unmarked" place="supralinear" seq="2">steady</add></subst> <subst><del rend="overstrike" seq="1">stretch</del><add rend="unmarked" place="supralinear" seq="2">flow</add></subst> of
+                discrepancy and one supercilious and ceaseless <gap reason="cut away" quantity="1" unit="word"/></p>
+            <note type="authorial" place="bottom" resp="#h1">bring in <!--NHG: there are two squiggly marks around this "a" in #h2.-->a sockdologer on the
+            Dickens&#8209;fawners</note></div1>
+            <pb xml:id="leaf001v" facs="duk.00109.002.jpg" type="verso"/><div1 type="section">
+            <del rend="hashmark"><ab><gap reason="cut away" quantity="1" unit="word"/> <gap reason="illegible" unit="word" quantity="1"/> speaking<gap reason="illegible" quantity="3" unit="word"/> <unclear reason="illegible" resp="#lmg">best</unclear> way of
+                <gap reason="cut away" quantity="4" unit="char"/>king of his graceful and talented school, so numerou<gap reason="cut away" quantity="1" unit="char"/>
+                <gap reason="cut away" quantity="3" unit="char"/>th in Great Britain and America.&#8212;</ab>
+                <p><del rend="overstrike">Many of</del> The <choice><orig>eleves</orig><reg>&#233;l&#232;ves</reg></choice> of this <del rend="overstrike">school are</del> graceful
+                    talented school are numerous both in Great
+                    <gap reason="cut away" quantity="3" unit="char"/>tain and America, yet we shall speak of their
+                    <gap reason="cut away" quantity="3" unit="char"/>er as the best way of speaking of them.
+                    His <choice><orig>eleves</orig><reg>&#233;l&#232;ves</reg></choice> are perhaps more numerous in New York,
+                    in Cincinnati and Charleston than they are in <unclear reason="illegible" resp="#lmg">other</unclear>
+                    cities <del rend="overstrike">He is the poet of the highly <unclear reason="illegible" resp="#lmg">polished</unclear></del>
+                    graceful and talented writer.&#8212;He is the
+                    <gap reason="cut away" quantity="1" unit="word"/>artificial phases of modern societ<gap reason="cut away" quantity="1" unit="char"/></p>
+                </del></div1>
+            </body>
+    </text>
+</TEI>
